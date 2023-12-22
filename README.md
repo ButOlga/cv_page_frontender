@@ -9,6 +9,6 @@
     3. three
 ```
 
-[CV page preview](butolga.github.io/cv_page_frontender/)
+[CV page repository](https://butolga.github.io/cv_page_frontender/)
 
 ![image](assets/avatar.jpg)
